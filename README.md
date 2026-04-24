@@ -90,8 +90,6 @@ STYLE_Previewer/
 ## 🤝 Contributors
 Developed with ❤️ by:
 - **Sanjay Kumar**
-- **Subasri**
-- **Srimathi**
 
 ---
 
